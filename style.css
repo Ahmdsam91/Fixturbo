@@ -677,7 +677,7 @@ header{
 /* footer */
 
 footer {
-    background-image: url(imgs/bg/footer-bg1-1.png);
+    background-image: url(footer-bg1-1.png);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
