@@ -240,7 +240,7 @@ nav{
 /* header */
 
 header{
-    background-image: url(imgs/hero/hero_bg_1_1.png);
+    background-image: url(hero_bg_1_1.png);
     height: 100vh; 
     display: flex;
     flex-direction: row;
@@ -491,7 +491,7 @@ header{
     padding: 60px 20px;
 }
 .banner1-down {
-    background-image: url(imgs/normal/appointment-thumb-1-1.png);
+    background-image: url(appointment-thumb-1-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -785,7 +785,7 @@ footer {
 /* -------- service page & servics details page------- */
 
 .service-header {
-    background-image: url(imgs/hero/hero_bg_3_2.png);
+    background-image: url(hero_bg_3_2.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -878,7 +878,7 @@ footer {
 /* ------team----- */
 
 .team-header{
-    background: linear-gradient(rgba(20, 20, 20, .8),rgba(20, 20, 20, .8)),url(imgs/hero/hero_bg_2_1.png);
+    background: linear-gradient(rgba(20, 20, 20, .8),rgba(20, 20, 20, .8)),url(hero_bg_2_1.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -916,7 +916,7 @@ footer {
 /* -----contact page------ */
 
 .contact-header {
-    background-image: url(imgs/intro/bg-2.png);
+    background-image: url(bg-2.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
